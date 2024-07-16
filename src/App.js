@@ -18,11 +18,12 @@ function App() {
         <nav className="navbar navbar-expand-lg navbar-light bg-white">
           <div className="container-lg">
             <NavLink className="navbar-brand" to="/">
-              {/* <img
+              <img
                 className="navbar-brand-logo"
-                src="scalx.png"
+                src={`${process.env.PUBLIC_URL}/scalcx-logo.png`}
                 alt="SCALX Logo"
-              /> */}
+                style={{ height: "60px" }}
+              />
               Southern California Commissioning
             </NavLink>
             <button
