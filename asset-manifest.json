@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/scalcx/static/css/main.ff02f4b5.css",
-    "main.js": "/scalcx/static/js/main.7ccf8cef.js",
+    "main.js": "/scalcx/static/js/main.d22f9072.js",
     "static/js/453.6ac764fb.chunk.js": "/scalcx/static/js/453.6ac764fb.chunk.js",
     "index.html": "/scalcx/index.html",
     "main.ff02f4b5.css.map": "/scalcx/static/css/main.ff02f4b5.css.map",
-    "main.7ccf8cef.js.map": "/scalcx/static/js/main.7ccf8cef.js.map",
+    "main.d22f9072.js.map": "/scalcx/static/js/main.d22f9072.js.map",
     "453.6ac764fb.chunk.js.map": "/scalcx/static/js/453.6ac764fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.7ccf8cef.js"
+    "static/js/main.d22f9072.js"
   ]
 }
